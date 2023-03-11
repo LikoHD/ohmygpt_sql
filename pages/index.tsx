@@ -102,9 +102,13 @@ const Home: NextPage = () => {
             }}
           />
         </Card>
-        <div className="text-sm text-gray-500 mt-2 ml-2">
-            <span>AI项目商业分析：</span>  <a href="https://xiaobot.net/p/aiyanjiu?refer=a1be91e6-ff56-473b-8404-a6f1f5856dba" target="_blank" rel="noopener noreferrer"></a>
-            <span>Midjourney进阶创意库：</span> <a href="https://xiaobot.net/p/MJ2023?refer=a1be91e6-ff56-473b-8404-a6f1f5856dba" target="_blank" rel="noopener noreferrer"></a>
+        <div style={{fontSize: '10px', color: '#ccc', textAlign: 'left', textDecoration: 'underline'}}>
+          <a href="https://xiaobot.net/p/aiyanjiu?refer=a1be91e6-ff56-473b-8404-a6f1f5856dba" target="_blank" rel="noopener noreferrer">
+          AI项目商业分析
+          </a>
+          <a href="https://xiaobot.net/p/MJ2023?refer=a1be91e6-ff56-473b-8404-a6f1f5856dba" target="_blank" rel="noopener noreferrer">
+          Midjourney进阶创意库
+          </a>
         </div>
         
 
