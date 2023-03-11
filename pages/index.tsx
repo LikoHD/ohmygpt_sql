@@ -104,11 +104,15 @@ const Home: NextPage = () => {
         </Card>
         <div style={{fontSize: '14px', textAlign: 'left', textDecoration: 'underline'}}>
           <a href="https://xiaobot.net/p/aiyanjiu?refer=a1be91e6-ff56-473b-8404-a6f1f5856dba" target="_blank" rel="noopener noreferrer">
-          AI项目商业分析
+          AI项目商业分析 
           </a>
           <a href="https://xiaobot.net/p/MJ2023?refer=a1be91e6-ff56-473b-8404-a6f1f5856dba" target="_blank" rel="noopener noreferrer">
-          | Midjourney进阶创意库
+          |  Midjourney进阶创意库
           </a>
+          <a href="https://okjk.co/Ea2Pnf" target="_blank" rel="noopener noreferrer">
+          |  即刻@Liko
+          </a>
+          
         </div>
         
 
