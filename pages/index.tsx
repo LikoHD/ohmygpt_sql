@@ -102,7 +102,7 @@ const Home: NextPage = () => {
             }}
           />
         </Card>
-        <div style={{fontSize: '14px', color: '#ccc', textAlign: 'left', textDecoration: 'underline'}}>
+        <div style={{fontSize: '14px', textAlign: 'left', textDecoration: 'underline'}}>
           <a href="https://xiaobot.net/p/aiyanjiu?refer=a1be91e6-ff56-473b-8404-a6f1f5856dba" target="_blank" rel="noopener noreferrer">
           AI项目商业分析
           </a>
